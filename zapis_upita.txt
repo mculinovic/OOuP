@@ -1,0 +1,7 @@
+Key = 1 Column = stupac Table = tablica
+Key = 1 Column = stupac Table = tablica
+Key = 1 Column = stupac Table = tablica
+Key = 1 Column = stupac Table = tablica
+Key = 1 Column = stupac Table = tablica
+Key = 1 Column = stupac Table = tablica
+Key = 1 Column = stupac Table = tablica
